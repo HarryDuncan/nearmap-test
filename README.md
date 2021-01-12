@@ -4,7 +4,7 @@ Welcome to the [Nearmap](nearmap.com) JS test. The purpose of this assignment is
 ## Task
 Build a simple app using React.
 
-Take a look at [wireframe-mockup.jpg](https://github.com/nearmap/nearmap-js-test/blob/master/wireframe-mockup.jpg?raw=true) to get a feel for what we're after.
+Take a look at [wireframe-mockup.jpg](./wireframe-mockup.jpg?raw=true) to get a feel for what we're after.
 
 ![Wireframe of task, showing map with markers. One marker is selected and shows an information box](https://github.com/nearmap/nearmap-js-test/blob/master/wireframe-mockup.jpg?raw=true)
 
