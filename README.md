@@ -11,7 +11,7 @@ Take a look at [wireframe-mockup.jpg](./wireframe-mockup.jpg) to get a feel for 
 The application should:
 - Display [background-map.jpg](./background-map.jpg).
 - Load the map data from [map-data.json](./map-data.json).
-- Populate the map with markers.
+- Populate the map with markers. See [marker.png](./marker.png) and [marker-selected.png](./marker-selected.png).
 - When the user clicks on a marker, an information box will appear, showing the information for that location.
 - When the user clicks on the map, the marker will deselect, and the information box will disappear.
 
