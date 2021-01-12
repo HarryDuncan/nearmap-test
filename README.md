@@ -25,7 +25,7 @@ npm install
 npm start
 ```
 
-If you have any further instructions, please include in the project's README.md. 
+If you have any further instructions, please include in the project's `README.md`. 
 
 In terms of browser support, we only require the latest Chrome version.
 
