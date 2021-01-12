@@ -4,13 +4,13 @@ Welcome to the [Nearmap](nearmap.com) JS test. The purpose of this assignment is
 ## Task
 Build a simple app using React.
 
-Take a look at [wireframe-mockup.jpg](./wireframe-mockup.jpg?raw=true) to get a feel for what we're after.
+Take a look at [wireframe-mockup.jpg](./wireframe-mockup.jpg) to get a feel for what we're after.
 
-![Wireframe of task, showing map with markers. One marker is selected and shows an information box](https://github.com/nearmap/nearmap-js-test/blob/master/wireframe-mockup.jpg?raw=true)
+![Wireframe of task, showing map with markers. One marker is selected and shows an information box](./wireframe-mockup.jpg?raw=true)
 
 The application should:
-- Display [background-map.jpg](https://github.com/nearmap/nearmap-js-test/blob/master/background-map.jpg).
-- Load the map data from [map-data.json](https://github.com/nearmap/nearmap-js-test/blob/master/map-data.json).
+- Display [background-map.jpg](./background-map.jpg).
+- Load the map data from [map-data.json](./map-data.json).
 - Populate the map with markers.
 - When the user clicks on a marker, an information box will appear, showing the information for that location.
 - When the user clicks on the map, the marker will deselect, and the information box will disappear.
