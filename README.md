@@ -1,7 +1,9 @@
 # Nearmap JS Test
+
 Welcome to the [Nearmap](nearmap.com) JS test. The purpose of this assignment is to test your familiarity with web development, JS, React, and TDD.
 
 ## Task
+
 Build a simple app using React.
 
 Take a look at [wireframe-mockup.jpg](./wireframe-mockup.jpg) to get a feel for what we're after.
@@ -9,6 +11,7 @@ Take a look at [wireframe-mockup.jpg](./wireframe-mockup.jpg) to get a feel for 
 ![Wireframe of task, showing map with markers. One marker is selected and shows an information box](./wireframe-mockup.jpg?raw=true)
 
 The application should:
+
 - Display [background-map.jpg](./background-map.jpg).
 - Load the map data from [map-data.json](./map-data.json).
 - Populate the map with markers. See [marker.png](./marker.png) and [marker-selected.png](./marker-selected.png).
@@ -18,6 +21,7 @@ The application should:
 Assume the app and data set will grow over time. The initial architecture should take this into account.
 
 ## Testing your app
+
 We would like to be able run the following in the root of the project and have the app run locally:
 
 ```
@@ -25,11 +29,12 @@ npm install
 npm start
 ```
 
-If you have any further instructions, please include in the project's `README.md`. 
+If you have any further instructions, please include in the project's `README.md`.
 
 In terms of browser support, we only require the latest Chrome version.
 
 ## Submission instructions
 
-* **DO NOT** fork this repository or create pull requests on it as we don't want other candidates to see your solution.
-* Provide your solution as a `.zip` or .`gz` archive file, either via email or some Dropbox-like service, to your Nearmap contact.
+- **DO NOT** fork this repository or create pull requests on it as we don't want other candidates to see your solution.
+- Create a _private_ repo by importing the https://github.com/nearmap/nearmap-js-test repo into a new private repo. (See https://github.com/new/import).
+- Add us as a collaborator to the repo so we can see your solution. See your email for more details.
